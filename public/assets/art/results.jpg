@@ -1,0 +1,130 @@
+﻿<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Кружок: олимпиадная школа по гуманитарным предметам и экономике</title>
+  <meta name="description" content="Онлайн-школа «Кружок»: 5 лет готовим к олимпиадам по истории, обществознанию, литературе, праву, МХК, журналистике и экономике. Курсы, образовательная лицензия, кураторы и преподаватели из олимпиадной среды." />
+  <meta name="robots" content="index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1" />
+  <link rel="canonical" href="https://kruzhok.school/" />
+  <link rel="alternate" hreflang="ru" href="https://kruzhok.school/" />
+  <meta property="og:type" content="website" />
+  <meta property="og:locale" content="ru_RU" />
+  <meta property="og:site_name" content="Кружок" />
+  <meta property="og:title" content="Кружок: олимпиадная школа по гуманитарным предметам и экономике" />
+  <meta property="og:description" content="Курсы по истории, обществознанию, литературе, праву, МХК, журналистике и экономике." />
+  <meta property="og:url" content="https://kruzhok.school/" />
+  <meta property="og:image" content="https://kruzhok.school/assets/brand/logo.png" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="theme-color" content="#1E7BFF" />
+  <link rel="preload" href="assets/fonts/VKSansDisplay-Regular.ttf" as="font" type="font/ttf" crossorigin />
+  <link rel="preload" href="assets/fonts/VKSansDisplay-Medium.ttf" as="font" type="font/ttf" crossorigin />
+  <link rel="icon" type="image/png" href="assets/brand/arrow-circle.png?v=1" />
+  <link rel="stylesheet" href="styles.css?v=21" />
+  <script type="application/ld+json">{
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": ["EducationalOrganization", "Organization"],
+        "@id": "https://kruzhok.school/#organization",
+        "name": "Кружок | Олимпиадная школа",
+        "alternateName": "Кружок",
+        "url": "https://kruzhok.school/",
+        "logo": "https://kruzhok.school/assets/brand/logo.png",
+        "description": "Онлайн-школа олимпиадной подготовки по истории, обществознанию, литературе, праву, МХК, журналистике и экономике.",
+        "email": "hello@kruzhok.ru",
+        "telephone": "+79932453072",
+        "sameAs": [
+          "https://t.me/kruzhok_hist",
+          "https://t.me/kruzhok_soc",
+          "https://t.me/kruzhok_lit",
+          "https://t.me/stankevich_isk",
+          "https://t.me/kruzhok_feedback"
+        ]
+      },
+      {
+        "@type": "WebSite",
+        "@id": "https://kruzhok.school/#website",
+        "url": "https://kruzhok.school/",
+        "name": "Кружок | Олимпиадная школа",
+        "inLanguage": "ru-RU",
+        "publisher": { "@id": "https://kruzhok.school/#organization" }
+      },
+      {
+        "@type": "CollectionPage",
+        "@id": "https://kruzhok.school/#webpage",
+        "url": "https://kruzhok.school/",
+        "name": "Кружок: олимпиадная школа по гуманитарным предметам и экономике",
+        "description": "Главная страница онлайн-школы Кружок с курсами по истории, обществознанию, литературе, праву, МХК, журналистике и экономике.",
+        "inLanguage": "ru-RU",
+        "isPartOf": { "@id": "https://kruzhok.school/#website" },
+        "about": { "@id": "https://kruzhok.school/#organization" }
+      },
+      {
+        "@type": "ItemList",
+        "name": "Курсы Кружка",
+        "itemListElement": [
+          { "@type": "Course", "position": 1, "name": "Курс подготовки к олимпиадам по истории", "url": "https://kruzhok.school/history.html" },
+          { "@type": "Course", "position": 2, "name": "Курс подготовки к олимпиадам по обществознанию", "url": "https://kruzhok.school/society.html" },
+          { "@type": "Course", "position": 3, "name": "Курс подготовки к олимпиадам по литературе", "url": "https://kruzhok.school/literature.html" },
+          { "@type": "Course", "position": 4, "name": "Курс подготовки к олимпиадам по праву", "url": "https://kruzhok.school/law.html" },
+          { "@type": "Course", "position": 5, "name": "Курс подготовки к олимпиадам по МХК", "url": "https://kruzhok.school/art.html" },
+          { "@type": "Course", "position": 6, "name": "Летний курс по журналистике", "url": "https://kruzhok.school/journalism.html" },
+          { "@type": "Course", "position": 7, "name": "Олимпиадная экономика без хаоса", "url": "https://kruzhok.school/economy.html" }
+        ]
+      },
+      {
+        "@type": "FAQPage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "Что такое Кружок?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Кружок — онлайн-школа олимпиадной подготовки. Базовое направление — история; также есть курсы по обществознанию, литературе, праву, МХК, журналистике и экономике."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Как устроено обучение?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Основной формат — полугодовые курсы с июня по ноябрь: теория в записи, онлайн-практика, домашние задания, кураторы, пробники и личный кабинет."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Почему Кружку доверяют?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Школа работает 5 лет, имеет образовательную лицензию, а преподаватели направлений — призёры, победители и члены жюри ВсОШ."
+            }
+          }
+        ]
+      }
+    ]
+  }</script>
+  <!-- Yandex.Metrika counter -->
+  <script type="text/javascript">
+      (function(m,e,t,r,i,k,a){
+          m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+          m[i].l=1*new Date();
+          for (var j = 0; j < document.scripts.length; j++) {if (document.scripts[j].src === r) { return; }}
+          k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)
+      })(window, document,'script','https://mc.yandex.ru/metrika/tag.js?id=109256465', 'ym');
+
+      ym(109256465, 'init', {ssr:true, webvisor:true, clickmap:true, ecommerce:"dataLayer", referrer: document.referrer, url: location.href, accurateTrackBounce:true, trackLinks:true});
+  </script>
+  <noscript><div><img src="https://mc.yandex.ru/watch/109256465" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+  <!-- /Yandex.Metrika counter -->
+</head>
+<body>
+  <div id="root"></div>
+  <script src="https://unpkg.com/react@18.3.1/umd/react.development.js" crossorigin="anonymous"></script>
+  <script src="https://unpkg.com/react-dom@18.3.1/umd/react-dom.development.js" crossorigin="anonymous"></script>
+  <script src="https://unpkg.com/@babel/standalone@7.29.0/babel.min.js" crossorigin="anonymous"></script>
+  <script src="components/icons.jsx?v=3" type="text/babel"></script>
+  <script src="data.js?v=16"></script>
+  <script src="app.jsx?v=20" type="text/babel"></script>
+</body>
+</html>
