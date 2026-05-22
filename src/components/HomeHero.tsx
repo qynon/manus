@@ -9,10 +9,10 @@ export function HomeHero() {
   return (
     <section className="hero homeHero gridBg">
       <div className="heroCopy">
-        <h1>Курсы подготовки к олимпиадам по математике.</h1>
+        <h1>Клуб по подготовке к олимпиадам по математике.</h1>
         <p className="heroLead">
-          Работаем только с математикой — от школьного этапа ВсОШ до
-          заключительного и перечневых олимпиад.
+          Один предмет, одна выверенная программа: теория, практика, кураторы
+          и пробники по математике.
         </p>
         <div className="subjectList">
           {courses.map((c) => (
@@ -55,9 +55,8 @@ export function HomeHero() {
         {/* eslint-disable-next-line @next/next/no-img-element */}
         <img src="/assets/brand/logo.png" alt="manus — олимпиадная школа" />
         <ul>
-          <li>Готовим только по математике — без размазывания фокуса</li>
+          <li>Математика</li>
           <li>тысячи выпускников, поступивших БВИ в вузы</li>
-          <li>образовательная лицензия</li>
           <li>преподаватели — жюри и дипломанты олимпиад</li>
         </ul>
       </div>

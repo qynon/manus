@@ -19,7 +19,13 @@ export const metadata: Metadata = {
     images: [{ url: "/assets/brand/logo.png" }],
   },
   twitter: { card: "summary_large_image" },
-  icons: { icon: "/assets/brand/arrow-circle.png" },
+  icons: {
+    icon: [
+      { url: "/favicon.ico", sizes: "any" },
+      { url: "/assets/brand/favicon.png", type: "image/png", sizes: "256x256" },
+    ],
+    apple: "/assets/brand/apple-touch-icon.png",
+  },
 };
 
 export const viewport: Viewport = {

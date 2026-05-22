@@ -87,7 +87,7 @@ export default async function CoursePage(
               className="eyebrow"
               style={{ ["--c" as string]: color } as CSSProperties}
             >
-              Направление manus
+              Клуб manus
             </div>
             <h1 style={{ color }}>{course.titleCap}</h1>
             {heroLead ? (

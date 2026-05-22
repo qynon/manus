@@ -11,8 +11,8 @@ export function CourseCards() {
     <section id="courses" className="section">
       <SectionTitle
         eyebrow="Курс"
-        title="Олимпиадная математика"
-        text="Один предмет, одна выверенная программа: теория, практика, кураторы, дедлайны и пробники в формате ВсОШ и перечневых."
+        title="Математика"
+        text="Клуб по подготовке к олимпиадам по математике: теория, практика, кураторы, дедлайны и пробники."
       />
       <div className="courseCards">
         {courses.map((c) => (
