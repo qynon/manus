@@ -65,7 +65,7 @@ export default async function CoursePage(
   const teacherLead = get<string>(course, "teacherLead");
   const teacherText = get<string>(course, "teacherText");
   const heroLead = get<string>(course, "heroLead");
-  const tags = get<string[]>(course, "tags") ?? ["ВсОШ", "Перечни"];
+  const tags = get<string[]>(course, "tags") ?? ["Олимпиады", "Перечни"];
   const schedulePdf = get<string>(course, "schedulePdf");
   const payLink = get<string>(course, "payLink");
 

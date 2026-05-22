@@ -33,7 +33,7 @@ export function HomeHero() {
           <b>ноябрь</b>
         </div>
         <div className="olympTags">
-          <span>ВсОШ</span>
+          <span>Олимпиады</span>
           <strong>+</strong>
           <span>Перечни</span>
         </div>

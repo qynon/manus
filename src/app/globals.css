@@ -59,18 +59,25 @@ button,input,select {
 }
 
 .topbar {
-    position: sticky;
+    position: fixed;
     top: 0;
-    z-index: 20;
+    left: 0;
+    right: 0;
+    z-index: 50;
     height: 74px;
     padding: 0 clamp(18px,4vw,56px);
     display: flex;
     align-items: center;
     justify-content: space-between;
     gap: 24px;
-    background: rgba(251,251,251,.88);
+    background: rgba(251,251,251,.92);
     backdrop-filter: blur(16px);
+    -webkit-backdrop-filter: blur(16px);
     border-bottom: 1px solid var(--line)
+}
+
+body {
+    padding-top: 74px
 }
 
 .brand {
@@ -1293,8 +1300,12 @@ blockquote cite {
 
 @media(max-width: 680px) {
     .topbar {
-        height:auto;
+        height: 66px;
         min-height: 66px
+    }
+
+    body {
+        padding-top: 66px
     }
 
     .navCta {
