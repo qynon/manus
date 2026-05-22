@@ -70,9 +70,7 @@ button,input,select {
     align-items: center;
     justify-content: space-between;
     gap: 24px;
-    background: rgba(251,251,251,.92);
-    backdrop-filter: blur(16px);
-    -webkit-backdrop-filter: blur(16px);
+    background: #fff;
     border-bottom: 1px solid var(--line)
 }
 
